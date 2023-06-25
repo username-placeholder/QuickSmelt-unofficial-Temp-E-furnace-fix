@@ -1,4 +1,4 @@
-# QuickSmelt-unofficial-Temp-E-furnace-fix
+# QuickSmelt-unofficial-Temp-E-furnace-fix (disables the turn off button, must turn off furnaces by taking wood out/switch for your electric ones)
 
 using System;
 using System.Collections.Generic;
